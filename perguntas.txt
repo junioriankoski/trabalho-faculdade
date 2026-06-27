@@ -1,0 +1,20 @@
+** Perguntas Antigas **
+1. Quais tipos de acidentes são mais frequentes na base de dados?
+
+2. Quais regiões apresentam maior número de acidentes registrados?
+
+3. Como a quantidade de acidentes varia ao longo do tempo?
+
+
+
+**Perguntas Atuais**
+1. Quais tipos de acidente geram mais vítimas graves ou fatais? — usa tipo_acid + vitimas_graves
+
+2. Acidentes noturnos são mais graves do que os diurnos? — usa noite_dia + vitimas_graves + teve_fatal
+
+3. Em quais dias da semana e horários ocorrem mais acidentes? — usa dia_sem + hora_int
+
+
+Optei por trocar as perguntas do trabalho, pois é uma base bem completa, o que nos permite responder perguntas mais 'expecificas', menos genéricas e mais completas
+sem necessáriamente serem mais complexas que as anteriores.
+Se todo o grupo estiver de acordo efetuaremos a troca das perguntas.
